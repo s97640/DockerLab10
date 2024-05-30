@@ -25,3 +25,7 @@ Repozytorium zawierające rozwiązanie zadania z laboratorium 10.
 
 [![image.png](https://i.postimg.cc/YSxMYjXv/image.png)](https://postimg.cc/5HjhM9WJ)
 
+## Sprawdzenie działania trybu dostępu read-only wolumenów
+
+[![image.png](https://i.postimg.cc/Cx6Z3PCh/image.png)](https://postimg.cc/fVmTXvgp)
+
